@@ -111,7 +111,7 @@ nav.sticky .menu-btn{
 .home{
   height: 100vh;
   width: 100%;
-  background: url("https://github.com/parasssen/parassen.github.io/blob/54ea2cb895c1b4804e0e251850cdf63dd99e3abc/Images/background.png") no-repeat;
+  background: url("background.png") no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
